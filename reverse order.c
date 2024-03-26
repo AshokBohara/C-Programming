@@ -1,17 +1,19 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+int main()
 {
-	int array[10],i;
-	printf("enter any 10 numbers\n");
+	int arr[10],i;
+	printf("enter 10 munbers\n");
 	for(i=0;i<=9;i++)
+	scanf("%d",&arr[i]);
 	{
-		scanf("%d",&array[i]);
-	}
-	printf("\n the array in reverse order is\n");
-	for(i=9;i>=0;--i)
-	{
-		printf("%d\t\n",array[i]);
+		printf("enter reverse order of arr[i]");
+		for(i=9;i>=0;--i)
+		scanf("%d\t",arr[i]);
+		{
+			printf("%d\t",arr[i]);
+		}
 	}
 	getch();
+	
 }
