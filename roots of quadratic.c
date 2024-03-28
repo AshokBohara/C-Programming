@@ -6,10 +6,10 @@ int main()
 	float det,r1,r2;
 	printf("enter the cofficient of x^2,x and constant c term from quadratic equation \n");
 	scanf("%d",&a);
-	scanf("%d,",&b);
+	scanf("%d",&b);
 	scanf("%d",&c);
 	det=(b*b-(4*a*c));
-	if (det>0)
+	if (det>=0)
 	{
 	r1=(-b+sqrt(det))/2*a;
 	r2=(-b-sqrt(det))/2*a;
