@@ -1,3 +1,4 @@
+//swapping of two number
 #include<stdio.h>
 int swap(int*,int*);
 int main()
