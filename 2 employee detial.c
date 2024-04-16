@@ -1,3 +1,4 @@
+//detail of employee using structure 
 #include<stdio.h>
 struct employee
 {
