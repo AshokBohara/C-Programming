@@ -1,3 +1,4 @@
+//example of function
 #include<stdio.h>
 float getArea(float,float);
 float getperimeter(float,float);
