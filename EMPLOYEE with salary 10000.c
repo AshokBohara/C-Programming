@@ -1,3 +1,4 @@
+//using structure detial of an employee
 #include<stdio.h>
 struct employee
 {
