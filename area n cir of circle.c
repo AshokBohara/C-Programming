@@ -1,3 +1,4 @@
+//finding the are and circumference of circle using c programming
 #include<stdio.h>
 #include<math.h>
 int main()
