@@ -1,4 +1,4 @@
-//printing HelloWorld in c program
+//display HelloWorld in c program language
 #include<stdio.h>
 int main()
 {
