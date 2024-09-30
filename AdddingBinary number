@@ -1,3 +1,4 @@
+//Adding Binary number in C-Program.
 #include <stdio.h>
 #include <string.h>
 
