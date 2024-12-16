@@ -1,3 +1,4 @@
+//mistakely cpp is gone in c program but ntg wrong for this code .. is for adding binary number using c++ programming language
 #include <stdio.h>
 #include <string.h>
 
