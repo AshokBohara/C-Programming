@@ -12,7 +12,11 @@ int main()
 		for(j=i+1;j<5;j++)
 	{
 	if(n[i]<n[j])
-	 }
+		{
+			temp=n[i];
+			n[i]=n[j];
+			n[j]=temp;
+		}
 	}
 
 		printf("shorted value");
